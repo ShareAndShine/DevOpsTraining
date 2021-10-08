@@ -5,6 +5,8 @@ public class ContactHelper()
 	public static string(List<contact> allcontacts)
 	{
 		// Duplogic
+		LIST<Contact> dupcontacts = [SELECT ID FROM CONTACT WHERE EMAIL IN(allcontacts.email)];
+
 		// Throw error
 	}
 }
