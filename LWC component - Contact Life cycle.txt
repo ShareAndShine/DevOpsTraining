@@ -1,1 +1,6 @@
 We are about to learn SF project, dev hub, scratch org and then create and deploy contact life cycle component
+
+Pesudo code
+
+1. Create LWC component
+2. USe tab component to show life cycle
