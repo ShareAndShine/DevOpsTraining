@@ -1,0 +1,1 @@
+We are about to learn SF project, dev hub, scratch org and then create and deploy contact life cycle component
